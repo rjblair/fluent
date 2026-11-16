@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AdvancedFluentBuilder/AdvancedFluentBuilder.csproj" />
+  <Project Path="FluentImpl/FluentImpl.csproj" />
+</Solution>
